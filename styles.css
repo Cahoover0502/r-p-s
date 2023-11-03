@@ -1,0 +1,27 @@
+*{
+    background: lightslategrey;
+}
+
+#gameBox{
+    background: rgb(18, 151, 228);
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    padding: 2rem;
+  
+}
+h1{
+    background: rgb(18, 151, 228);
+}
+
+
+.choicebtn{
+   border-radius: 25px; 
+   background: blanchedalmond;
+   margin: 1rem;
+   transition: 500ms;
+}
+
+.choicebtn:hover{
+transform: scale(1.25);
+}
